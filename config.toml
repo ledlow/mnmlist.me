@@ -1,0 +1,16 @@
+baseURL = "https://mnmlist.me/"
+disablePathToLower = true
+languageCode = "en-us"
+title = "mnmlist.me"
+
+[[params.mainMenu]]
+    link = "/posts"
+    text = "posts"
+
+[[params.mainMenu]]
+    link = "/gallery"
+    text = "gallery"
+
+[[params.mainMenu]]
+    link = "/about"
+    text = "about"
