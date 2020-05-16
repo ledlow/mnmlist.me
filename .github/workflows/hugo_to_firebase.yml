@@ -10,4 +10,4 @@ jobs:
     - uses: ledlow/action-hugo-firebase-deploy@master
       with:
         firebase-token: ${{ secrets.FIREBASE_TOKEN }}
-        alias: ${{ mnml }}
+        alias: mnml
