@@ -3,7 +3,7 @@ author = "Steve Ledlow"
 date = 2013-07-17T21:49:26Z
 description = ""
 draft = false
-tags = ["Lessismore", "Minimalism", "Minimalist", "Simplicity", "hide-title"]
+tags = ["Lessismore", "Minimalism", "Minimalist", "Simplicity"]
 title = "No Desire”
 
 +++
