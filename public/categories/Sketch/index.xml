@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Sketch on mnmlist.me</title>
+    <link>https://mnmlist.me/categories/Sketch/</link>
+    <description>Recent content in Sketch on mnmlist.me</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 25 Jul 2016 07:36:25 +0000</lastBuildDate>
+    
+	<atom:link href="https://mnmlist.me/categories/Sketch/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Sketch</title>
+      <link>https://mnmlist.me/posts/several-months-ago-i-found-this-sketch-on-a-small/</link>
+      <pubDate>Mon, 25 Jul 2016 07:36:25 +0000</pubDate>
+      
+      <guid>https://mnmlist.me/posts/several-months-ago-i-found-this-sketch-on-a-small/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
