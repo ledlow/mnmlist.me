@@ -11,5 +11,5 @@ title = "(Untitled)"
 +++
 
 
-<p><p>Sometimes zen is something as simple as a cup of coffee in a small donut shop.</p></p><p></p><img src="http://78.media.tumblr.com/dce7b84932775cf4047a71d64ae69596/tumblr_njgkkhQMwd1sb53a4o1_1280.jpg">
+Sometimes zen is something as simple as a cup of coffee in a small donut shop.<img src="http://78.media.tumblr.com/dce7b84932775cf4047a71d64ae69596/tumblr_njgkkhQMwd1sb53a4o1_1280.jpg">
 

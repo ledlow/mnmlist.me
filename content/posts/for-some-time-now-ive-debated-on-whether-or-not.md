@@ -11,7 +11,7 @@ title = "(Untitled)"
 +++
 
 
-<p>For some time now I've debated on whether or not to keep this site active.  I hadn't written here for many months and the domain name renewal came due.  I've started and abandoned websites before, but this one felt like one that shouldn't meet the same fate.</p>
+For some time now I've debated on whether or not to keep this site active.  I hadn't written here for many months and the domain name renewal came due.  I've started and abandoned websites before, but this one felt like one that shouldn't meet the same fate.
 
-<p>Maybe I should stop treating NOT writing as a form of minimalism.</p>
+Maybe I should stop treating NOT writing as a form of minimalism.
 

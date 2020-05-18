@@ -6,10 +6,11 @@ description = ""
 draft = false
 slug = "for-me-minimalism-is-a-philosophy-not-a"
 tags = ["Minimalism", "Minimalist", "Simplicity"]
-title = "&hellip;for me minimalism is a philosophy, not a competition. It's a check against the urges and consumerist tendencies of our modern..."
+title = "for me minimalism is a philosophy, not a competition. It's a check against the urges and consumerist tendencies of our modern..."
 
 +++
 
 
-<blockquote><p>&hellip;for me minimalism is a philosophy, not a competition. It’s a check against the urges and consumerist tendencies of our modern consumerist lives.</p></blockquote>Leo Babauta
+> for me minimalism is a philosophy, not a competition. It’s a check against the urges and consumerist tendencies of our modern consumerist lives. 
+ Leo Babauta
 

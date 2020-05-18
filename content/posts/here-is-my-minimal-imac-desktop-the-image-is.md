@@ -11,5 +11,5 @@ title = "(Untitled)"
 +++
 
 
-<p><p>Here is my minimal iMac desktop.  The image is thanks to an awesome site called <a href="http://unsplash.com" target="_blank">Unsplash</a>.</p></p><p></p><img src="http://78.media.tumblr.com/910236cc746bfc5566500f15d46764f2/tumblr_mrlhmrqJNs1sb53a4o1_1280.png">
+Here is my minimal iMac desktop.  The image is thanks to an awesome site called <a href="http://unsplash.com" target="_blank">Unsplash</a>.<img src="http://78.media.tumblr.com/910236cc746bfc5566500f15d46764f2/tumblr_mrlhmrqJNs1sb53a4o1_1280.png">
 
