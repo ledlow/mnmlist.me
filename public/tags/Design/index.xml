@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Design on mnmlist.me</title>
+    <link>https://mnmlist.me/tags/Design/</link>
+    <description>Recent content in Design on mnmlist.me</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 31 May 2015 07:02:38 +0000</lastBuildDate>
+    
+	<atom:link href="https://mnmlist.me/tags/Design/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>(Untitled)</title>
+      <link>https://mnmlist.me/posts/in-my-bedroom-i-have-opted-for-the-choice-of/</link>
+      <pubDate>Sun, 31 May 2015 07:02:38 +0000</pubDate>
+      
+      <guid>https://mnmlist.me/posts/in-my-bedroom-i-have-opted-for-the-choice-of/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>(Untitled)</title>
+      <link>https://mnmlist.me/posts/you-know-youve-achieved-perfection-in-design-not/</link>
+      <pubDate>Wed, 07 Aug 2013 22:41:37 +0000</pubDate>
+      
+      <guid>https://mnmlist.me/posts/you-know-youve-achieved-perfection-in-design-not/</guid>
+      <description>You know you’ve achieved perfection in design, not when you have nothing more to add, but when you have nothing more to take away. -Anotine de Saint-Exupery </description>
+    </item>
+    
+    <item>
+      <title>(Untitled)</title>
+      <link>https://mnmlist.me/posts/good-design-is-as-little-design-as-possible/</link>
+      <pubDate>Thu, 18 Jul 2013 14:52:57 +0000</pubDate>
+      
+      <guid>https://mnmlist.me/posts/good-design-is-as-little-design-as-possible/</guid>
+      <description>Good design is as little design as possible. -Dieter Rams </description>
+    </item>
+    
+  </channel>
+</rss>
