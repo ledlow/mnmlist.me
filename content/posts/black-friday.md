@@ -1,11 +1,10 @@
 +++
 author = "Steve Ledlow"
-categories = ["Minimal", "Blackfriday"]
 date = 2014-11-28T18:02:23Z
 description = ""
-draft = false
+draft = true
 slug = "black-friday"
-tags = ["Minimal", "Blackfriday"]
+tags = ["minimal", "blackfriday"]
 title = "Black Friday"
 
 +++
