@@ -2,7 +2,7 @@
 author = "Steve Ledlow"
 date = 2014-11-28T18:02:23Z
 description = ""
-draft = true
+draft = false
 slug = "black-friday"
 tags = ["minimal", "blackfriday"]
 title = "Black Friday"

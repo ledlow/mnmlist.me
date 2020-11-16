@@ -1,12 +1,10 @@
 +++
 author = "Steve Ledlow"
-categories = ["Minimalism", "Simplicity", "hide-title"]
 date = 2013-07-17T04:59:00Z
 description = ""
 draft = false
-slug = "simplicity-boils-down-to-two-steps-identify-the"
-tags = ["Minimalism", "Simplicity", "hide-title"]
-title = "(Untitled)"
+tags = ["Minimalism", "Simplicity", "quote"]
+title = "[Quote] 2 Steps"
 
 +++
 

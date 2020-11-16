@@ -3,7 +3,7 @@ author = "Steve Ledlow"
 date = 2013-07-17T06:57:48Z
 description = ""
 draft = false
-tags = ["Minimalism", "Minimalist", "Leobabauta"]
+tags = ["Minimalism", "Minimalist"]
 title = "Inspiration"
 
 +++

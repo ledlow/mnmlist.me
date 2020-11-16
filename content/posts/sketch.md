@@ -1,11 +1,9 @@
 +++
 author = "Steve Ledlow"
-categories = ["Little Things", "Minimalist", "Sketch"]
 date = 2016-07-25T07:36:25Z
 description = ""
 draft = false
-slug = "several-months-ago-i-found-this-sketch-on-a-small"
-tags = ["Little Things", "Minimalist", "Sketch"]
+tags = ["Minimalist", "sketch", "pic"]
 title = "Sketch"
 
 +++

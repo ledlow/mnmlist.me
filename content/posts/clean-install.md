@@ -1,10 +1,9 @@
 +++
 author = "Steve Ledlow"
-categories = ["OS X Mavericks", "Simplicity", "hide-title"]
 date = 2013-08-28T05:36:42Z
 description = ""
 draft = false
-tags = ["Os X Mavericks", "Simplicity", "hide-title"]
+tags = ["Os X Mavericks", "Simplicity"]
 title = "Clean Install"
 
 +++

@@ -1,11 +1,9 @@
 +++
 author = "Steve Ledlow"
-categories = ["Design", "Minimal", "Minimalism", "Simplicity", "Minimalist", "hide-title"]
 date = 2015-05-31T07:02:38Z
 description = ""
 draft = false
-slug = "in-my-bedroom-i-have-opted-for-the-choice-of"
-tags = ["Design", "Minimal", "Minimalism", "Simplicity", "Minimalist", "hide-title"]
+tags = ["Design", "Minimal", "Minimalism", "Simplicity", "Minimalist"]
 title = "Choice of Simplicy"
 
 +++
@@ -16,4 +14,3 @@ In my bedroom I have opted for the choice of simplicity.  I have a very minimal 
 These are the only furnishings in my bedroom.  There is no television.  There is no computer.  If I want to watch something, I stream it on my iPad.  If I want to do something online, I use my phone or iPad.  The only thing I plan to add is a simple bedside lamp.  The one I want is a simple ceramic design from Target that I will purchase soon.
 
 The choice of simplicity can be so rewarding.
-
