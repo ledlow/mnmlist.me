@@ -6,12 +6,12 @@ description = ""
 draft = false
 slug = "simplicity-is-often-about-learning-to-mentally-get"
 tags = ["Minimal", "Mindfulness", "Simplicity", "hide-title"]
-title = "(Untitled)"
+title = "[Quote] Simplicity Mentality"
 
 +++
 
 
 ## Simplicity is often about learning to mentally get out of your own way.  Do not let the ideas of what may come result in a lack of forward movement.
 
-## - Self
+## -Self
 

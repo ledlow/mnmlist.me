@@ -6,10 +6,12 @@ description = ""
 draft = false
 slug = "bliss"
 tags = ["Mindfulness", "Coffee", "hide-title"]
-title = "(Untitled)"
+title = "Bliss"
 
 +++
 
 
-Bliss. <img src="http://78.media.tumblr.com/287a73dcc8612a57ce8707cc0592bfc0/tumblr_nnympxSrxW1sb53a4o1_1280.jpg">
+Bliss.
+
+![](https://res.cloudinary.com/ldlw/image/upload/w_700/v1605556325/grz6vaasol3wozhqoi2c.jpg)
 

@@ -6,7 +6,7 @@ description = ""
 draft = false
 slug = "fifteen-years-ago-the-internet-was-an-escape-from"
 tags = ["Quote", "Minimalist", "hide-title"]
-title = "(Untitled)"
+title = "[Quote] 15 years"
 
 +++
 
