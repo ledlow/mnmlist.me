@@ -1,10 +1,10 @@
 +++
-author = "Steve Ledlow”
-date = 2013-08-07T22:41:37Z
-description = ""
-draft = false
-tags = ["Design", "Ui", "Minimalism", "Simplicity", "Quote"]
-title = "Achieved Perfection”
+author="Steve Ledlow”
+date=2013-08-07T22:41:37Z
+description=""
+draft=false
+tags=["Design", "Ui", "Minimalism", "Simplicity", "Quote"]
+title="Achieved Perfection”
 
 +++
 
