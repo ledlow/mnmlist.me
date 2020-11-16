@@ -1,17 +1,17 @@
 +++
 author = "Steve Ledlow"
-categories = ["Design", "Minimalism", "Minimalist", "quote"]
+categories = ["Design", "Minimalism", "Minimalist", "hide-title"]
 date = 2013-07-18T14:52:57Z
 description = ""
 draft = false
-slug = "good-design"
-tags = ["Design", "Minimalism", "Minimalist", "quote"]
-title = "Good Design"
+slug = "good-design-is-as-little-design-as-possible"
+tags = ["Design", "Minimalism", "Minimalist", "hide-title"]
+title = "(Untitled)"
 
 +++
 
 
-> Good design is as little design as possible.
-> 
-> -Dieter Rams
+## Good design is as little design as possible.
+
+## -Dieter Rams
 

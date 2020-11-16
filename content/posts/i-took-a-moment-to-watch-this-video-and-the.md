@@ -13,5 +13,5 @@ title = "Forming Clay"
 
 I took a moment to watch this video and the simplicity in the end result was inspiring to me.
 
-<p><iframe src="https://player.vimeo.com/video/68202421?title=0&byline=0&portrait=0" width="500" height="213" frameborder="0" title="Manon Clouzeau - &quot;bol&quot;" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe></p>
+<iframe src="https://player.vimeo.com/video/68202421?title=0&byline=0&portrait=0" width="500" height="213" frameborder="0" title="Manon Clouzeau - &quot;bol&quot;" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 
