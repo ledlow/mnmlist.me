@@ -10,7 +10,6 @@ title = "Sketch"
 
 +++
 
-
 Several months ago, I found this sketch on a small piece of paper tucked behind the lattice wood wall next to my table in Cracker Barrel (a restaurant). 
 
 Someone sitting at the table before me had decided to use the rectangular piece of paper that binds the napkin holding the silverware for something wonderful. That person then decided to leave it tucked away for someone to find. 

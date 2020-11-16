@@ -4,7 +4,6 @@ categories = ["Robot", "Minimal", "Warrior"]
 date = 2015-06-28T08:54:13Z
 description = ""
 draft = false
-slug = "i-have-had-this-since-the-third-grade-a-boy-from"
 tags = ["Robot", "Minimal", "Warrior"]
 title = "Hiroki Robot"
 
