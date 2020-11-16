@@ -6,7 +6,7 @@ description = ""
 draft = false
 slug = "i-took-a-moment-to-watch-this-video-and-the"
 tags = ["Minimalism", "Clay", "Ceramics", "Simplicity", "hide-title"]
-title = "(Untitled)"
+title = "Forming Clay"
 
 +++
 

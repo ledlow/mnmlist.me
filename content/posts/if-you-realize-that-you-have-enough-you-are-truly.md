@@ -6,7 +6,7 @@ description = ""
 draft = false
 slug = "if-you-realize-that-you-have-enough-you-are-truly"
 tags = ["Quote", "hide-title"]
-title = "(Untitled)"
+title = "Rich Realization"
 
 +++
 
