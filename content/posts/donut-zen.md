@@ -4,7 +4,7 @@ categories = []
 date = 2015-02-08T20:05:05Z
 description = ""
 draft = false
-tags = [pic]
+tags = ["pic"]
 title = "Donut Shop"
 
 +++
