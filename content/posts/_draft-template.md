@@ -1,9 +1,9 @@
 +++
 author = "Steve Ledlow"
-date = YYYY-MM-DDTHH:MM:SSZ
+date = 2020-11-28T11:00:00Z
 description = ""
 draft = true
-tags = [""]
+tags = ""
 title = ""
 
 +++
