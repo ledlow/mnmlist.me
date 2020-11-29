@@ -4,7 +4,7 @@ date = 2020-11-29T00:07:00Z
 description = ""
 draft = false
 tags = ["link”, “simplify"]
-title = "[Link] [5 Ways to Simplify Today](https://zenhabits.net/simplify-now/)
+title = "[Link] [5 Ways to Simplify Today](https://zenhabits.net/simplify-now/)”
 
 +++
 
