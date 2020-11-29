@@ -4,11 +4,11 @@ date = 2020-11-29T00:07:00Z
 description = ""
 draft = false
 tags = ["link”, “simplify"]
-title = "[Link] [5 Ways to Simplify Today](https://zenhabits.net/simplify-now/)”
+title = "[Link] 5 Ways to Simplify Today”
 
 +++
 
-Leo Babauta, writing for [zen habits](https://zenhabits.net).
+Leo Babauta, writing for [zen habits](https://zenhabits.net/simplify-now/).
 
 > Living a life of simplicity can be a beautiful thing. But simplifying itself can seem like an overwhelming process.
 
