@@ -4,8 +4,8 @@ date = 2020-11-29T12:07:00Z
 description = ""
 draft = false
 tags = ["link”, “simplify"]
-title = "[Link] Five Ways to Simplify Today”
-
+title = "Testing"
+  
 +++
 
 Leo Babauta, writing for [zen habits](https://zenhabits.net/simplify-now/).
